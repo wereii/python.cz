@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+PRODID:ics.py - http://git.io/lLljaA
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210407T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-04-07@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210217T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-02-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210526T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-05-26@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210512T160000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2021-05-12@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210428T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-04-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210203T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-02-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+GEO:50.087546;14.421244
+DTSTAMP:20201201T041907Z
+DTSTART:20201216T180000Z
+SUMMARY:Pražské Pyvo #117 Christmas Hardware Special ONLINE ONLY
+DESCRIPTION:Christmas Hardware Special\n\n**Pozor\, změna místa**: Link na meeting bude zveřejněn před začátkem akce.\n\n**Different venue**: Link to the meeting will be available right before the event.\n
+LOCATION:Praha
+URL:https://pyvo.cz/praha-pyvo/2020-12/
+TRANSP:OPAQUE
+UID:praha-pyvo-2020-12-16@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20201230T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2020-12-30@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210128T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-01-28@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210325T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-03-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210224T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-02-24@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210120T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-01-20@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210317T180000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-03-17@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210331T170000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-03-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210106T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-01-06@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210303T180000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-03-03@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210527T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-05-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+GEO:49.844569;18.252319
+DTSTAMP:20201201T041907Z
+DTSTART:20201203T170000Z
+SUMMARY:Ostravské Pyvo – Q&A — Otázky a odpovědi nejen o Pythonu (online)
+DESCRIPTION:Ahoj.\n\nPo krátké vynucené pauze jsme zpět. Situace je bohužel taková\, že\nchceme-li se letos ještě jednou setkat\, budeme to muset udělat online.\n\nPrvní a letos poslední online ostravské Pyvo proběhne netradičně ve\nčtvrtek 3. prosince od 18:00 a potkáme se na [jit.si](https://meet.jit.si/PyvoOstrava).\nDůvodem pro netradiční termín je pokročilý kurz\, který probíhá ve středu.\n\nSice to bude bez večeře a piva – to si budete muset zařídit sami –\, ale\nna zajímavost obsahu to nebude mít žádný vliv. O ten se totiž také\npostaráte vy 😄 Během pokročilého kurzu se nám vyrojila celá řada velmi\nzajímavých otázek okolo fungování Pythonu a počítačů obecně\, takže\nposlední letošní Pyvo věnujeme hledání odpovědí na tyto otázky. Další\notázky můžete přidávat i nadále\, případně můžete hlasovat pro ty\nnejlepší na [poll.ly](https://poll.ly/#/GQvYgOQR).\n\nRekapitulace: ptejte se a hlasujte na [poll.ly](https://poll.ly/#/GQvYgOQR) a ve\nčtvrtek 3. 12. v 18:00 se připojte na [jit.si](https://meet.jit.si/PyvoOstrava).\n\nTěšíme se!\n
+LOCATION:Ostrava
+URL:https://pyvo.cz/ostrava-pyvo/2020-12/
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2020-12-03@pyvo.cz
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210429T170000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-04-29@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210127T180000Z
+SUMMARY:(Olomoucké Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:olomouc-pyvo-2021-01-27@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210113T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2021-01-13@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20201231T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2020-12-31@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210310T170000Z
+SUMMARY:(Plzeňské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:plzen-pyvo-2021-03-10@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210519T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-05-19@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210225T180000Z
+SUMMARY:(Brněnské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:brno-pyvo-2021-02-25@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210421T170000Z
+SUMMARY:(Pražské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:praha-pyvo-2021-04-21@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20201201T041907Z
+DTSTART:20210505T170000Z
+SUMMARY:(Ostravské Pyvo – nepotvrzeno\; tradiční termín srazu)
+TRANSP:OPAQUE
+UID:ostrava-pyvo-2021-05-05@pyvo.cz
+CATEGORIES:tentative-date
+END:VEVENT
+END:VCALENDAR
